@@ -1,0 +1,9 @@
+C:\Users\thete\source\repos\Desktop-Titles\Desktop-Titles\bin\Debug\Desktop-Titles.exe.config
+C:\Users\thete\source\repos\Desktop-Titles\Desktop-Titles\bin\Debug\Desktop-Titles.exe
+C:\Users\thete\source\repos\Desktop-Titles\Desktop-Titles\bin\Debug\Desktop-Titles.pdb
+C:\Users\thete\source\repos\Desktop-Titles\Desktop-Titles\obj\Debug\Desktop-Titles.csprojAssemblyReference.cache
+C:\Users\thete\source\repos\Desktop-Titles\Desktop-Titles\obj\Debug\Desktop_Titles.Form1.resources
+C:\Users\thete\source\repos\Desktop-Titles\Desktop-Titles\obj\Debug\Desktop_Titles.Properties.Resources.resources
+C:\Users\thete\source\repos\Desktop-Titles\Desktop-Titles\obj\Debug\Desktop-Titles.csproj.GenerateResource.cache
+C:\Users\thete\source\repos\Desktop-Titles\Desktop-Titles\obj\Debug\Desktop-Titles.exe
+C:\Users\thete\source\repos\Desktop-Titles\Desktop-Titles\obj\Debug\Desktop-Titles.pdb
