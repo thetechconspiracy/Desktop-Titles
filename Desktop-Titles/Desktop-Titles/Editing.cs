@@ -21,5 +21,15 @@ namespace Desktop_Titles
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form1.ActiveForm.Visible = false;
+        }
+
+        private void title_TextChanged(object sender, EventArgs e)
+        {
+            Form1.ActiveForm.Text = title.Text;
+        }
     }
 }
